@@ -1,0 +1,6 @@
+{
+  "name": "FreshFits Wash & Fold",
+  "description": "Wear FreshFits. Stay Sharp. Own Your Campus. Premier campus and student wash & fold, iron, and dry cleaning service with doorstep and hostel pickups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
